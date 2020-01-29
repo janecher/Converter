@@ -1,0 +1,16 @@
+C:\Users\evgen\source\repos\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\evgen\source\repos\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\evgen\source\repos\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\MainWindow.g.cs
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\App.g.cs
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter_MarkupCompile.cache
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter_MarkupCompile.lref
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\MainWindow.baml
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter.g.resources
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\Converter.pdb
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\FeetAndInchesForm.g.cs
+C:\Users\evgen\source\repos\Converter\Converter\obj\Debug\FeetAndInchesForm.baml
